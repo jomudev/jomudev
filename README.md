@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hipnos1606
+- 👋 Hi, I’m @jomudev
 - 👀 I’m interested in mobile and web application development
 - 🌱 I’m currently learning about Computer Engineering
 - 💞️ I’m looking to collaborate projects that help me to increase my knowledge
